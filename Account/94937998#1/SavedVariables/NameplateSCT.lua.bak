@@ -1,0 +1,32 @@
+
+NameplateSCTDB = {
+	["profileKeys"] = {
+		["Zawaz - Wyrmrest Accord"] = "Default",
+		["Borimath - Proudmoore"] = "Default",
+		["Arromer - Darkspear"] = "Default",
+		["Ellesys - Darkspear"] = "Default",
+		["Tyieshacin - Area 52"] = "Default",
+		["Zawaz - Area 52"] = "Default",
+		["Monreihn - Aggramar"] = "Default",
+		["Zawaz - Lightbringer"] = "Default",
+		["Zawaz - Darkspear"] = "Default",
+		["Zawaz - Proudmoore"] = "Default",
+		["Kavakius - Wyrmrest Accord"] = "Default",
+		["Kreydin - Wyrmrest Accord"] = "Default",
+		["Heellirp - Darkspear"] = "Default",
+		["Joneku - Bonechewer"] = "Default",
+		["Kreydin - Lightbringer"] = "Default",
+		["Kango - Darkspear"] = "Default",
+		["Lanirael - Lightbringer"] = "Default",
+		["Zawaz - Aggramar"] = "Default",
+		["Arslic - Lightbringer"] = "Default",
+		["Kaylrythe - Wyrmrest Accord"] = "Default",
+		["Joneku - Wyrmrest Accord"] = "Default",
+	},
+	["global"] = {
+		["font"] = "Doris PP",
+		["formatting"] = {
+			["size"] = 22,
+		},
+	},
+}

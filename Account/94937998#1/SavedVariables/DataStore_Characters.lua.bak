@@ -1,0 +1,31 @@
+
+DataStore_CharactersDB = {
+	["profileKeys"] = {
+		["Joneku - Wyrmrest Accord"] = "Joneku - Wyrmrest Accord",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Wyrmrest Accord.Joneku"] = {
+				["XPMax"] = 359000,
+				["played"] = 119245,
+				["playedThisLevel"] = 1138,
+				["isResting"] = false,
+				["lastUpdate"] = 1520051111,
+				["class"] = "Warrior",
+				["race"] = "Void Elf",
+				["level"] = 64,
+				["XP"] = 126127,
+				["RestXP"] = 0,
+				["money"] = 9659716,
+				["gender"] = 2,
+				["name"] = "Joneku",
+				["subZone"] = "Steel Gate",
+				["faction"] = "Alliance",
+				["englishRace"] = "VoidElf",
+				["zone"] = "Howling Fjord",
+				["lastLogoutTimestamp"] = 1520051111,
+				["englishClass"] = "WARRIOR",
+			},
+		},
+	},
+}

@@ -1,0 +1,55 @@
+
+MogItDB = {
+	["profileKeys"] = {
+		["Joneku - Wyrmrest Accord"] = "Default",
+	},
+	["global"] = {
+		["version"] = "3.8.4",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["x"] = 0,
+			["slotLabels"] = {
+				["Waist"] = "Waist",
+				["Fist"] = "Fist Weapons",
+				["Tabard"] = "Tabard",
+				["Legs"] = "Legs",
+				["Back"] = "Back",
+				["Shirt"] = "Shirt",
+				["Dagger"] = "Daggers",
+				["Hands"] = "Hands",
+				["Gun"] = "Guns",
+				["Polearm"] = "Polearms",
+				["2H-sword"] = "Two-Handed Swords",
+				["2H-axe"] = "Two-Handed Axes",
+				["2H-mace"] = "Two-Handed Maces",
+				["1H-mace"] = "One-Handed Maces",
+				["Head"] = "Head",
+				["Holdable"] = "Held In Off-hand",
+				["Feet"] = "Feet",
+				["Staff"] = "Staves",
+				["Chest"] = "Chest",
+				["1H-sword"] = "One-Handed Swords",
+				["Wrist"] = "Wrist",
+				["Crossbow"] = "Crossbows",
+				["1H-axe"] = "One-Handed Axes",
+				["Bow"] = "Bows",
+				["Shoulder"] = "Shoulder",
+				["Shield"] = "Shields",
+			},
+			["y"] = 0,
+		},
+	},
+}
+MogItWishlist = {
+	["global"] = {
+		["version"] = 70300,
+	},
+	["profileKeys"] = {
+		["Joneku - Wyrmrest Accord"] = "Joneku - Wyrmrest Accord",
+	},
+	["profiles"] = {
+		["Joneku - Wyrmrest Accord"] = {
+		},
+	},
+}

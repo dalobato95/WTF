@@ -1,0 +1,65 @@
+VER 3 0000000000000002 "arms" "INV_SWORD_27"
+/castsequence reset=15/combat/target Piercing Howl,null
+/castsequence reset=0.3 0,0,0,0,Victory Rush
+/castsequence reset=0.3 0,0,0,Slam
+/castsequence reset=0.3 0,0,Overpower
+/castsequence reset=0.3 0,Mortal Strike
+/castsequence reset=0.3 Colossus Smash,Ha
+END
+VER 3 000000000000000C "artifactweapon" "INV_SWORD_04"
+#showtooltip
+/run SocketInventoryItem(16);
+END
+VER 3 0000000000000007 "buffs" "ABILITY_DRUID_TIGERSROAR"
+/cast  Tiger's Fury
+/cast  Berserk
+/cast Incarnation: King of the Jungle
+/cast Nature's Vigil
+END
+VER 3 0000000000000003 "Buffs" "INV_MISC_QUESTIONMARK"
+/cast recklessness
+/cast berserker Rage
+/cast Avatar
+/cast blood fury
+/cast Die by the Sword
+END
+VER 3 000000000000000A "Clense" "INV_MISC_QUESTIONMARK"
+#showtooltip Nature's Cure
+/cast [target=mouseover,help,nodead][target=target] Nature's Cure
+END
+VER 3 000000000000000B "Derp Mode" "ABILITY_DRUID_IMPROVEDTREEFORM"
+/cast Incarnation: Tree of Life
+/say DERP MODE ACTIVATE!
+END
+VER 3 0000000000000008 "Displacer Beast" "SPELL_DRUID_DISPLACEMENT"
+#showtooltip Displacer Beast
+/cast Displacer Beast
+/cast Cat Form
+END
+VER 3 0000000000000001 "DPS boost" "INV_MISC_QUESTIONMARK"
+/cast Celestial Alignment
+/cast nature's Vigil
+END
+VER 3 0000000000000005 "DPS increase" "ABILITY_PALADIN_SHEATHOFLIGHT"
+/cast Avenging Wrath
+/cast  Holy Avenger
+END
+VER 3 0000000000000009 "Nature's Swiftne" "INV_MISC_QUESTIONMARK"
+#showtooltip Nature's Swiftness
+/run SetCVar("autoUnshift",0)
+/cast Nature's Swiftness
+/cast Healing Touch
+/run SetCVar("autoUnshift",1)
+END
+VER 3 0000000000000006 "sit" "INV_MISC_QUESTIONMARK"
+/sit
+END
+VER 3 0000000000000004 "taint" "INV_SCROLL_11"
+/run print(issecurevariable("CompactRaidFrame1"))
+END
+VER 3 000000000000000D "ZygorAction1" "134400"
+END
+VER 3 000000000000000E "ZygorAction2" "134400"
+END
+VER 3 000000000000000F "ZygorAction3" "134400"
+END

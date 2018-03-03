@@ -1,0 +1,93 @@
+
+AddOnSkinsDB = {
+	["profileKeys"] = {
+		["Zawaz - Wyrmrest Accord"] = "Zawaz - Wyrmrest Accord",
+		["Masticordis - Area 52"] = "Masticordis - Area 52",
+		["Borimath - Proudmoore"] = "Borimath - Proudmoore",
+		["Arromer - Darkspear"] = "Arromer - Darkspear",
+		["Ellesys - Darkspear"] = "Ellesys - Darkspear",
+		["Lanirael - Lightbringer"] = "Lanirael - Lightbringer",
+		["Zawaz - Area 52"] = "Zawaz - Area 52",
+		["Monreihn - Aggramar"] = "Monreihn - Aggramar",
+		["Zawaz - Lightbringer"] = "Zawaz - Lightbringer",
+		["Tyieshacin - Area 52"] = "Tyieshacin - Area 52",
+		["Zawaz - Darkspear"] = "Zawaz - Darkspear",
+		["Arslic - Area 52"] = "Arslic - Area 52",
+		["Kreydin - Darkspear"] = "Kreydin - Darkspear",
+		["Kreydin - Lightbringer"] = "Kreydin - Lightbringer",
+		["Kavakius - Wyrmrest Accord"] = "Kavakius - Wyrmrest Accord",
+		["Kreydin - Area 52"] = "Kreydin - Area 52",
+		["Heellirp - Darkspear"] = "Heellirp - Darkspear",
+		["Joneku - Bonechewer"] = "Joneku - Bonechewer",
+		["Kreydin - Wyrmrest Accord"] = "Kreydin - Wyrmrest Accord",
+		["Kango - Darkspear"] = "Kango - Darkspear",
+		["Zawaz - Proudmoore"] = "Zawaz - Proudmoore",
+		["Zawaz - Aggramar"] = "Zawaz - Aggramar",
+		["Arslic - Lightbringer"] = "Arslic - Lightbringer",
+		["Kaylrythe - Wyrmrest Accord"] = "Kaylrythe - Wyrmrest Accord",
+		["Joneku - Wyrmrest Accord"] = "Joneku - Wyrmrest Accord",
+	},
+	["profiles"] = {
+		["Zawaz - Wyrmrest Accord"] = {
+		},
+		["Masticordis - Area 52"] = {
+		},
+		["Borimath - Proudmoore"] = {
+		},
+		["Arromer - Darkspear"] = {
+			["DBMFont"] = "Roboto Black",
+		},
+		["Ellesys - Darkspear"] = {
+			["EmbedSystem"] = true,
+			["WeakAuras"] = false,
+		},
+		["Lanirael - Lightbringer"] = {
+		},
+		["Zawaz - Area 52"] = {
+			["EmbedSystem"] = true,
+			["DBMFont"] = "Roboto Black",
+			["WeakAuras"] = false,
+		},
+		["Monreihn - Aggramar"] = {
+		},
+		["Zawaz - Lightbringer"] = {
+			["DBMFont"] = "Roboto Black",
+			["WeakAuras"] = false,
+		},
+		["Tyieshacin - Area 52"] = {
+		},
+		["Zawaz - Darkspear"] = {
+		},
+		["Arslic - Area 52"] = {
+		},
+		["Kreydin - Darkspear"] = {
+		},
+		["Kreydin - Lightbringer"] = {
+		},
+		["Kavakius - Wyrmrest Accord"] = {
+		},
+		["Kreydin - Area 52"] = {
+		},
+		["Heellirp - Darkspear"] = {
+		},
+		["Joneku - Bonechewer"] = {
+		},
+		["Kreydin - Wyrmrest Accord"] = {
+		},
+		["Kango - Darkspear"] = {
+		},
+		["Zawaz - Proudmoore"] = {
+		},
+		["Zawaz - Aggramar"] = {
+			["EmbedSystem"] = true,
+			["Bartender4"] = false,
+			["WeakAuras"] = false,
+		},
+		["Arslic - Lightbringer"] = {
+		},
+		["Kaylrythe - Wyrmrest Accord"] = {
+		},
+		["Joneku - Wyrmrest Accord"] = {
+		},
+	},
+}
