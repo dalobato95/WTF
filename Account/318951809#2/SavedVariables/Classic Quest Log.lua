@@ -1,0 +1,4 @@
+
+ClassicQuestLogSettings = {
+	["Height"] = 496,
+}

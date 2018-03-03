@@ -1,0 +1,2383 @@
+
+_detalhes_database = {
+	["savedbuffs"] = {
+	},
+	["mythic_dungeon_id"] = 0,
+	["tabela_historico"] = {
+		["tabelas"] = {
+			{
+				{
+					["combatId"] = 3,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.003262,
+							["damage_from"] = {
+								["Shoveltusk Forager"] = true,
+							},
+							["targets"] = {
+								["Shoveltusk Forager"] = 15230,
+							},
+							["total"] = 15230.003262,
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["classe"] = "WARRIOR",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 15230.003262,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1520051046,
+							["friendlyfire_total"] = 0,
+							["spec"] = 72,
+							["nome"] = "Joneku",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 724,
+										["g_amt"] = 0,
+										["n_max"] = 367,
+										["targets"] = {
+											["Shoveltusk Forager"] = 2314,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1590,
+										["n_min"] = 169,
+										["g_dmg"] = 0,
+										["counter"] = 10,
+										["total"] = 2314,
+										["c_max"] = 724,
+										["MISS"] = 3,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 6,
+										["r_amt"] = 0,
+										["c_min"] = 724,
+									}, -- [1]
+									[5308] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 2298,
+										["targets"] = {
+											["Shoveltusk Forager"] = 3462,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 3462,
+										["n_min"] = 1164,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 3462,
+										["c_max"] = 0,
+										["id"] = 5308,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[23881] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 1970,
+										["g_amt"] = 0,
+										["n_max"] = 997,
+										["targets"] = {
+											["Shoveltusk Forager"] = 2967,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 997,
+										["n_min"] = 997,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 2967,
+										["c_max"] = 1970,
+										["id"] = 23881,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 1970,
+									},
+									[44949] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 291,
+										["targets"] = {
+											["Shoveltusk Forager"] = 843,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 843,
+										["n_min"] = 275,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 843,
+										["c_max"] = 0,
+										["id"] = 44949,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 3,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[199667] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 590,
+										["targets"] = {
+											["Shoveltusk Forager"] = 1710,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1710,
+										["n_min"] = 556,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 1710,
+										["c_max"] = 0,
+										["id"] = 199667,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 3,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[100130] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 581,
+										["targets"] = {
+											["Shoveltusk Forager"] = 3238,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 3238,
+										["n_min"] = 529,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 3238,
+										["c_max"] = 0,
+										["id"] = 100130,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 6,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[126664] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 205,
+										["targets"] = {
+											["Shoveltusk Forager"] = 205,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 205,
+										["n_min"] = 205,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 205,
+										["c_max"] = 0,
+										["id"] = 126664,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[259756] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 98,
+										["targets"] = {
+											["Shoveltusk Forager"] = 491,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 491,
+										["n_min"] = 7,
+										["g_dmg"] = 0,
+										["counter"] = 18,
+										["total"] = 491,
+										["c_max"] = 0,
+										["id"] = 259756,
+										["r_dmg"] = 0,
+										["spellschool"] = 48,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 18,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-1171-0853B8AF",
+							["last_dps"] = 1092.539688809,
+							["custom"] = 0,
+							["last_event"] = 1520051046,
+							["damage_taken"] = 2418.003262,
+							["start_time"] = 1520051032,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 3,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["healing_from"] = {
+								["Joneku"] = true,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "WARRIOR",
+							["totalover"] = 0.001746,
+							["total_without_pet"] = 1312.001746,
+							["total"] = 1312.001746,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-1171-0853B8AF",
+							["totalabsorb"] = 0.001746,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Joneku"] = 1312,
+							},
+							["totalover_without_pet"] = 0.001746,
+							["healing_taken"] = 1312.001746,
+							["fight_component"] = true,
+							["end_time"] = 1520051046,
+							["targets_overheal"] = {
+							},
+							["nome"] = "Joneku",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[117313] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 656,
+										["targets"] = {
+											["Joneku"] = 1312,
+										},
+										["n_min"] = 656,
+										["counter"] = 2,
+										["overheal"] = 0,
+										["total"] = 1312,
+										["c_max"] = 0,
+										["id"] = 117313,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 1312,
+										["n_amt"] = 2,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["heal_enemy_amt"] = 0,
+							["start_time"] = 1520051038,
+							["custom"] = 0,
+							["last_event"] = 1520051044,
+							["spec"] = 72,
+							["totaldenied"] = 0.001746,
+							["delay"] = 0,
+							["tipo"] = 2,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 3,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 20.007979,
+							["resource"] = 0.007979,
+							["targets"] = {
+								["Joneku"] = 20,
+							},
+							["pets"] = {
+							},
+							["powertype"] = 0,
+							["classe"] = "WARRIOR",
+							["fight_component"] = true,
+							["total"] = 20.007979,
+							["nome"] = "Joneku",
+							["spec"] = 72,
+							["grupo"] = true,
+							["flag_original"] = 1297,
+							["last_event"] = 1520051044,
+							["alternatepower"] = 0.007979,
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+									[23881] = {
+										["id"] = 23881,
+										["total"] = 20,
+										["targets"] = {
+											["Joneku"] = 20,
+										},
+										["counter"] = 2,
+									},
+								},
+							},
+							["serial"] = "Player-1171-0853B8AF",
+							["tipo"] = 3,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 3,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[105771] = {
+										["activedamt"] = 0,
+										["id"] = 105771,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[236027] = {
+										["activedamt"] = 0,
+										["id"] = 236027,
+										["targets"] = {
+										},
+										["uptime"] = 6,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["buff_uptime"] = 50,
+							["classe"] = "WARRIOR",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[202225] = {
+										["activedamt"] = 1,
+										["id"] = 202225,
+										["targets"] = {
+										},
+										["uptime"] = 5,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[184362] = {
+										["activedamt"] = 1,
+										["id"] = 184362,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[109128] = {
+										["activedamt"] = 0,
+										["id"] = 109128,
+										["targets"] = {
+										},
+										["uptime"] = 0,
+										["appliedamt"] = 0,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[215570] = {
+										["activedamt"] = 1,
+										["id"] = 215570,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[256374] = {
+										["activedamt"] = 1,
+										["id"] = 256374,
+										["targets"] = {
+										},
+										["uptime"] = 12,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[93795] = {
+										["activedamt"] = 1,
+										["id"] = 93795,
+										["targets"] = {
+										},
+										["uptime"] = 14,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[206333] = {
+										["activedamt"] = 1,
+										["id"] = 206333,
+										["targets"] = {
+										},
+										["uptime"] = 11,
+										["appliedamt"] = 1,
+										["refreshamt"] = 5,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[85739] = {
+										["activedamt"] = 1,
+										["id"] = 85739,
+										["targets"] = {
+										},
+										["uptime"] = 4,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["fight_component"] = true,
+							["debuff_uptime"] = 7,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 72,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[5308] = 1,
+								[190411] = 1,
+								[23881] = 2,
+								[199667] = 3,
+								[100130] = 6,
+								[126664] = 1,
+								[44949] = 3,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["last_event"] = 1520051046,
+							["nome"] = "Joneku",
+							["pets"] = {
+							},
+							["serial"] = "Player-1171-0853B8AF",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 3,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Joneku"] = true,
+				},
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["enemy"] = "Shoveltusk Forager",
+				["combat_counter"] = 26,
+				["playing_solo"] = true,
+				["totals"] = {
+					15229.986867, -- [1]
+					1312, -- [2]
+					{
+						0, -- [1]
+						[0] = 20,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Joneku"] = 1312.001746,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Joneku"] = 15230.003262,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 32699.421,
+				["combat_id"] = 3,
+				["instance_type"] = "none",
+				["frags"] = {
+					["Shoveltusk Forager"] = 1,
+				},
+				["data_fim"] = "23:24:06",
+				["data_inicio"] = "23:23:52",
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					15230, -- [1]
+					1312, -- [2]
+					{
+						0, -- [1]
+						[0] = 20,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 32685.481,
+				["TimeData"] = {
+				},
+				["pvp"] = true,
+			}, -- [1]
+			{
+				{
+					["combatId"] = 2,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.005904,
+							["total"] = 28350.005904,
+							["damage_from"] = {
+								["Fanggore Worg"] = true,
+								["Shoveltusk Forager"] = true,
+							},
+							["targets"] = {
+								["Shoveltusk Forager"] = 14507,
+								["Fanggore Worg"] = 13843,
+							},
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["colocacao"] = 1,
+							["classe"] = "WARRIOR",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 28350.005904,
+							["friendlyfire_total"] = 0,
+							["dps_started"] = false,
+							["end_time"] = 1520050952,
+							["on_hold"] = false,
+							["spec"] = 72,
+							["nome"] = "Joneku",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 2,
+										["b_amt"] = 1,
+										["c_dmg"] = 1045,
+										["g_amt"] = 0,
+										["n_max"] = 374,
+										["targets"] = {
+											["Shoveltusk Forager"] = 3191,
+											["Fanggore Worg"] = 2283,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 4429,
+										["n_min"] = 167,
+										["g_dmg"] = 0,
+										["counter"] = 22,
+										["total"] = 5474,
+										["c_max"] = 681,
+										["MISS"] = 4,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 254,
+										["n_amt"] = 16,
+										["r_amt"] = 0,
+										["c_min"] = 364,
+									}, -- [1]
+									[5308] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 2219,
+										["g_amt"] = 0,
+										["n_max"] = 1090,
+										["targets"] = {
+											["Shoveltusk Forager"] = 1090,
+											["Fanggore Worg"] = 2219,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1090,
+										["n_min"] = 1090,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 3309,
+										["c_max"] = 2219,
+										["id"] = 5308,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 2219,
+									},
+									[96103] = {
+										["c_amt"] = 0,
+										["b_amt"] = 1,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 569,
+										["targets"] = {
+											["Shoveltusk Forager"] = 1596,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1596,
+										["n_min"] = 293,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 1596,
+										["c_max"] = 0,
+										["id"] = 96103,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 424,
+										["n_amt"] = 4,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[52174] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 183,
+										["targets"] = {
+											["Shoveltusk Forager"] = 183,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 183,
+										["n_min"] = 183,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 183,
+										["c_max"] = 0,
+										["id"] = 52174,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[44949] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 312,
+										["g_amt"] = 0,
+										["n_max"] = 292,
+										["targets"] = {
+											["Fanggore Worg"] = 1477,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1165,
+										["n_min"] = 77,
+										["g_dmg"] = 0,
+										["counter"] = 9,
+										["total"] = 1477,
+										["c_max"] = 156,
+										["id"] = 44949,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 7,
+										["r_amt"] = 0,
+										["c_min"] = 156,
+									},
+									[23881] = {
+										["c_amt"] = 2,
+										["b_amt"] = 1,
+										["c_dmg"] = 3901,
+										["g_amt"] = 0,
+										["n_max"] = 918,
+										["targets"] = {
+											["Fanggore Worg"] = 3409,
+											["Shoveltusk Forager"] = 2586,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 2094,
+										["n_min"] = 470,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 5995,
+										["c_max"] = 2021,
+										["id"] = 23881,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 706,
+										["n_amt"] = 3,
+										["r_amt"] = 0,
+										["c_min"] = 1880,
+									},
+									[100130] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 1119,
+										["g_amt"] = 0,
+										["n_max"] = 589,
+										["targets"] = {
+											["Shoveltusk Forager"] = 3335,
+											["Fanggore Worg"] = 1110,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 3326,
+										["n_min"] = 532,
+										["g_dmg"] = 0,
+										["counter"] = 7,
+										["total"] = 4445,
+										["c_max"] = 1119,
+										["id"] = 100130,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 6,
+										["r_amt"] = 0,
+										["c_min"] = 1119,
+									},
+									[199667] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 1207,
+										["g_amt"] = 0,
+										["n_max"] = 583,
+										["targets"] = {
+											["Fanggore Worg"] = 3345,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 2138,
+										["n_min"] = 157,
+										["g_dmg"] = 0,
+										["counter"] = 9,
+										["total"] = 3345,
+										["c_max"] = 1207,
+										["id"] = 199667,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 8,
+										["r_amt"] = 0,
+										["c_min"] = 1207,
+									},
+									[218617] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 420,
+										["g_amt"] = 0,
+										["n_max"] = 768,
+										["targets"] = {
+											["Shoveltusk Forager"] = 2526,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 2106,
+										["n_min"] = 300,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 2526,
+										["c_max"] = 420,
+										["id"] = 218617,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["r_amt"] = 0,
+										["c_min"] = 420,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-1171-0853B8AF",
+							["last_dps"] = 1021.43779153302,
+							["custom"] = 0,
+							["last_event"] = 1520050951,
+							["damage_taken"] = 7193.005904,
+							["start_time"] = 1520050924,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 2,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "WARRIOR",
+							["totalover"] = 0.004245,
+							["total_without_pet"] = 2623.004245,
+							["total"] = 2623.004245,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-1171-0853B8AF",
+							["totalabsorb"] = 0.004245,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Joneku"] = 2623,
+							},
+							["totalover_without_pet"] = 0.004245,
+							["healing_taken"] = 2623.004245,
+							["fight_component"] = true,
+							["end_time"] = 1520050952,
+							["start_time"] = 1520050938,
+							["nome"] = "Joneku",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[117313] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 656,
+										["targets"] = {
+											["Joneku"] = 2623,
+										},
+										["n_min"] = 655,
+										["counter"] = 4,
+										["overheal"] = 0,
+										["total"] = 2623,
+										["c_max"] = 0,
+										["id"] = 117313,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 2623,
+										["n_amt"] = 4,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["healing_from"] = {
+								["Joneku"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["spec"] = 72,
+							["totaldenied"] = 0.004245,
+							["delay"] = 1520050933,
+							["last_event"] = 1520050950,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 2,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 70.007657,
+							["resource"] = 0.007657,
+							["targets"] = {
+								["Joneku"] = 70,
+							},
+							["pets"] = {
+							},
+							["powertype"] = 0,
+							["classe"] = "WARRIOR",
+							["fight_component"] = true,
+							["total"] = 70.007657,
+							["nome"] = "Joneku",
+							["spec"] = 72,
+							["grupo"] = true,
+							["flag_original"] = 1297,
+							["last_event"] = 1520051032,
+							["alternatepower"] = 0.007657,
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+									[100] = {
+										["id"] = 100,
+										["total"] = 20,
+										["targets"] = {
+											["Joneku"] = 20,
+										},
+										["counter"] = 1,
+									},
+									[85288] = {
+										["id"] = 85288,
+										["total"] = 10,
+										["targets"] = {
+											["Joneku"] = 10,
+										},
+										["counter"] = 2,
+									},
+									[23881] = {
+										["id"] = 23881,
+										["total"] = 40,
+										["targets"] = {
+											["Joneku"] = 40,
+										},
+										["counter"] = 4,
+									},
+								},
+							},
+							["serial"] = "Player-1171-0853B8AF",
+							["tipo"] = 3,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 2,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["fight_component"] = true,
+							["flag_original"] = 1047,
+							["nome"] = "Joneku",
+							["spec"] = 72,
+							["grupo"] = true,
+							["buff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 64,
+							["pets"] = {
+							},
+							["spell_cast"] = {
+								[85288] = 2,
+								[184367] = 1,
+								[100130] = 7,
+								[190411] = 3,
+								[96103] = 2,
+								[5308] = 2,
+								[44949] = 9,
+								[199667] = 9,
+								[23881] = 4,
+							},
+							["classe"] = "WARRIOR",
+							["tipo"] = 4,
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[85739] = {
+										["activedamt"] = 2,
+										["id"] = 85739,
+										["targets"] = {
+										},
+										["uptime"] = 7,
+										["appliedamt"] = 2,
+										["refreshamt"] = 2,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[184362] = {
+										["activedamt"] = 3,
+										["id"] = 184362,
+										["targets"] = {
+										},
+										["uptime"] = 9,
+										["appliedamt"] = 3,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[215570] = {
+										["activedamt"] = 2,
+										["id"] = 215570,
+										["targets"] = {
+										},
+										["uptime"] = 3,
+										["appliedamt"] = 2,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[93795] = {
+										["activedamt"] = 1,
+										["id"] = 93795,
+										["targets"] = {
+										},
+										["uptime"] = 28,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[206333] = {
+										["activedamt"] = 2,
+										["id"] = 206333,
+										["targets"] = {
+										},
+										["uptime"] = 17,
+										["appliedamt"] = 2,
+										["refreshamt"] = 5,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["serial"] = "Player-1171-0853B8AF",
+							["last_event"] = 1520050952,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 2,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Joneku"] = true,
+				},
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["enemy"] = "Shoveltusk Forager",
+				["combat_counter"] = 25,
+				["playing_solo"] = true,
+				["totals"] = {
+					28349.983597, -- [1]
+					2623, -- [2]
+					{
+						0, -- [1]
+						[0] = 70,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Joneku"] = 2623.004245,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Joneku"] = 28350.005904,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 32605.09,
+				["combat_id"] = 2,
+				["instance_type"] = "none",
+				["frags"] = {
+					["Shoveltusk Forager"] = 1,
+					["Fanggore Worg"] = 1,
+				},
+				["data_fim"] = "23:22:32",
+				["data_inicio"] = "23:22:04",
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					28350, -- [1]
+					2623, -- [2]
+					{
+						0, -- [1]
+						[0] = 70,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 32577.335,
+				["TimeData"] = {
+				},
+				["pvp"] = true,
+			}, -- [2]
+			{
+				{
+					["combatId"] = 1,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.00732,
+							["spec"] = 72,
+							["damage_from"] = {
+								["Fanggore Worg"] = true,
+							},
+							["targets"] = {
+								["Fanggore Worg"] = 14662,
+							},
+							["pets"] = {
+							},
+							["colocacao"] = 1,
+							["end_time"] = 1520050912,
+							["classe"] = "WARRIOR",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 14662.00732,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["total"] = 14662.00732,
+							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
+							["nome"] = "Joneku",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 707,
+										["g_amt"] = 0,
+										["n_max"] = 366,
+										["targets"] = {
+											["Fanggore Worg"] = 2670,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1963,
+										["n_min"] = 169,
+										["g_dmg"] = 0,
+										["counter"] = 10,
+										["total"] = 2670,
+										["c_max"] = 707,
+										["MISS"] = 1,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 8,
+										["r_amt"] = 0,
+										["c_min"] = 707,
+									}, -- [1]
+									[5308] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 1139,
+										["targets"] = {
+											["Fanggore Worg"] = 1139,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1139,
+										["n_min"] = 1139,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 1139,
+										["c_max"] = 0,
+										["id"] = 5308,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[96103] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 570,
+										["targets"] = {
+											["Fanggore Worg"] = 879,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 879,
+										["n_min"] = 309,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 879,
+										["c_max"] = 0,
+										["id"] = 96103,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[23881] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 1875,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Fanggore Worg"] = 1875,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 1875,
+										["c_max"] = 1875,
+										["id"] = 23881,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 1875,
+									},
+									[100130] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 1063,
+										["g_amt"] = 0,
+										["n_max"] = 562,
+										["targets"] = {
+											["Fanggore Worg"] = 2152,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1089,
+										["n_min"] = 527,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 2152,
+										["c_max"] = 1063,
+										["id"] = 100130,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 1063,
+									},
+									[199667] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 607,
+										["targets"] = {
+											["Fanggore Worg"] = 3471,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 3471,
+										["n_min"] = 539,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 3471,
+										["c_max"] = 0,
+										["id"] = 199667,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 6,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[44949] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 299,
+										["targets"] = {
+											["Fanggore Worg"] = 1713,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1713,
+										["n_min"] = 270,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 1713,
+										["c_max"] = 0,
+										["id"] = 44949,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 6,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[126664] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 206,
+										["targets"] = {
+											["Fanggore Worg"] = 206,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 206,
+										["n_min"] = 206,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 206,
+										["c_max"] = 0,
+										["id"] = 126664,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[259756] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 93,
+										["targets"] = {
+											["Fanggore Worg"] = 557,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 557,
+										["n_min"] = 8,
+										["g_dmg"] = 0,
+										["counter"] = 23,
+										["total"] = 557,
+										["c_max"] = 0,
+										["id"] = 259756,
+										["r_dmg"] = 0,
+										["spellschool"] = 48,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 23,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-1171-0853B8AF",
+							["last_dps"] = 1293.7445795466,
+							["custom"] = 0,
+							["last_event"] = 1520050911,
+							["damage_taken"] = 1652.00732,
+							["start_time"] = 1520050901,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 1,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["healing_from"] = {
+								["Joneku"] = true,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "WARRIOR",
+							["totalover"] = 2079.002356,
+							["total_without_pet"] = 544.002356,
+							["total"] = 544.002356,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-1171-0853B8AF",
+							["totalabsorb"] = 0.002356,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Joneku"] = 2623,
+							},
+							["totalover_without_pet"] = 0.002356,
+							["healing_taken"] = 544.002356,
+							["fight_component"] = true,
+							["end_time"] = 1520050912,
+							["targets_overheal"] = {
+								["Joneku"] = 2079,
+							},
+							["nome"] = "Joneku",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[117313] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Joneku"] = 2079,
+										},
+										["n_max"] = 544,
+										["targets"] = {
+											["Joneku"] = 544,
+										},
+										["n_min"] = 544,
+										["counter"] = 1,
+										["overheal"] = 2079,
+										["total"] = 544,
+										["c_max"] = 0,
+										["id"] = 117313,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 544,
+										["n_amt"] = 1,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["heal_enemy_amt"] = 0,
+							["start_time"] = 1520050905,
+							["custom"] = 0,
+							["last_event"] = 1520050905,
+							["spec"] = 72,
+							["totaldenied"] = 0.002356,
+							["delay"] = 0,
+							["tipo"] = 2,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 1,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 15.001304,
+							["resource"] = 0.001304,
+							["targets"] = {
+								["Joneku"] = 15,
+							},
+							["pets"] = {
+							},
+							["powertype"] = 0,
+							["classe"] = "WARRIOR",
+							["fight_component"] = true,
+							["total"] = 15.001304,
+							["nome"] = "Joneku",
+							["spec"] = 72,
+							["grupo"] = true,
+							["flag_original"] = 1297,
+							["last_event"] = 1520050907,
+							["alternatepower"] = 0.001304,
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+									[23881] = {
+										["id"] = 23881,
+										["total"] = 10,
+										["targets"] = {
+											["Joneku"] = 10,
+										},
+										["counter"] = 1,
+									},
+									[85288] = {
+										["id"] = 85288,
+										["total"] = 5,
+										["targets"] = {
+											["Joneku"] = 5,
+										},
+										["counter"] = 1,
+									},
+								},
+							},
+							["serial"] = "Player-1171-0853B8AF",
+							["tipo"] = 3,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 1,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[105771] = {
+										["activedamt"] = 0,
+										["id"] = 105771,
+										["targets"] = {
+										},
+										["uptime"] = 0,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[236027] = {
+										["activedamt"] = 0,
+										["id"] = 236027,
+										["targets"] = {
+										},
+										["uptime"] = 6,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["buff_uptime"] = 44,
+							["classe"] = "WARRIOR",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[85739] = {
+										["activedamt"] = 2,
+										["id"] = 85739,
+										["targets"] = {
+										},
+										["uptime"] = 5,
+										["appliedamt"] = 2,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[184362] = {
+										["activedamt"] = 1,
+										["id"] = 184362,
+										["targets"] = {
+										},
+										["uptime"] = 4,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[109128] = {
+										["activedamt"] = 0,
+										["id"] = 109128,
+										["targets"] = {
+										},
+										["uptime"] = 0,
+										["appliedamt"] = 0,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[215570] = {
+										["activedamt"] = 2,
+										["id"] = 215570,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 2,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[256374] = {
+										["activedamt"] = 1,
+										["id"] = 256374,
+										["targets"] = {
+										},
+										["uptime"] = 10,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[93795] = {
+										["activedamt"] = 1,
+										["id"] = 93795,
+										["targets"] = {
+										},
+										["uptime"] = 11,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[206333] = {
+										["activedamt"] = 2,
+										["id"] = 206333,
+										["targets"] = {
+										},
+										["uptime"] = 8,
+										["appliedamt"] = 2,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[202225] = {
+										["activedamt"] = 1,
+										["id"] = 202225,
+										["targets"] = {
+										},
+										["uptime"] = 4,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["fight_component"] = true,
+							["debuff_uptime"] = 6,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 72,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[5308] = 1,
+								[96103] = 1,
+								[190411] = 2,
+								[85288] = 1,
+								[199667] = 6,
+								[44949] = 6,
+								[23881] = 1,
+								[100130] = 3,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["last_event"] = 1520050912,
+							["nome"] = "Joneku",
+							["pets"] = {
+							},
+							["serial"] = "Player-1171-0853B8AF",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 1,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Joneku"] = true,
+				},
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["enemy"] = "Fanggore Worg",
+				["combat_counter"] = 24,
+				["playing_solo"] = true,
+				["totals"] = {
+					14661.981069, -- [1]
+					544, -- [2]
+					{
+						0, -- [1]
+						[0] = 15,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Joneku"] = 544.002356,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Joneku"] = 14662.00732,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 32565.729,
+				["combat_id"] = 1,
+				["instance_type"] = "none",
+				["frags"] = {
+					["Fanggore Worg"] = 1,
+				},
+				["data_fim"] = "23:21:53",
+				["data_inicio"] = "23:21:41",
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					14662, -- [1]
+					544, -- [2]
+					{
+						0, -- [1]
+						[0] = 15,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 32554.396,
+				["contra"] = "Fanggore Worg",
+				["TimeData"] = {
+				},
+			}, -- [3]
+		},
+	},
+	["last_version"] = "v7.3.0.5282",
+	["character_data"] = {
+		["logons"] = 11,
+	},
+	["tabela_instancias"] = {
+	},
+	["local_instances_config"] = {
+		{
+			["segment"] = 0,
+			["sub_attribute"] = 1,
+			["horizontalSnap"] = false,
+			["verticalSnap"] = false,
+			["is_open"] = true,
+			["isLocked"] = true,
+			["sub_atributo_last"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+			},
+			["snap"] = {
+			},
+			["mode"] = 2,
+			["attribute"] = 1,
+			["pos"] = {
+				["normal"] = {
+					["y"] = -431.499946594238,
+					["x"] = 753.5,
+					["w"] = 411.666656494141,
+					["h"] = 177.666702270508,
+				},
+				["solo"] = {
+					["y"] = 2,
+					["x"] = 1,
+					["w"] = 300,
+					["h"] = 200,
+				},
+			},
+		}, -- [1]
+	},
+	["cached_talents"] = {
+		["Player-1171-0853B8AF"] = {
+			22409, -- [1]
+			22635, -- [2]
+			22633, -- [3]
+			22379, -- [4]
+		},
+		["Player-1136-07DA932B"] = {
+		},
+	},
+	["last_instance_id"] = 0,
+	["announce_interrupts"] = {
+		["enabled"] = false,
+		["whisper"] = "",
+		["channel"] = "SAY",
+		["custom"] = "",
+		["next"] = "",
+	},
+	["last_instance_time"] = 0,
+	["active_profile"] = "Alpha",
+	["last_realversion"] = 129,
+	["ignore_nicktag"] = false,
+	["plugin_database"] = {
+		["DETAILS_PLUGIN_TINY_THREAT"] = {
+			["updatespeed"] = 1,
+			["showamount"] = false,
+			["animate"] = false,
+			["useplayercolor"] = false,
+			["useclasscolors"] = false,
+			["author"] = "Details! Team",
+			["playercolor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			},
+			["enabled"] = true,
+		},
+		["DETAILS_PLUGIN_TIME_ATTACK"] = {
+			["enabled"] = true,
+			["realm_last_shown"] = 40,
+			["saved_as_anonymous"] = true,
+			["recently_as_anonymous"] = true,
+			["dps"] = 0,
+			["disable_sharing"] = false,
+			["history"] = {
+			},
+			["time"] = 40,
+			["history_lastindex"] = 0,
+			["realm_lastamt"] = 0,
+			["realm_history"] = {
+			},
+			["author"] = "Details! Team",
+		},
+		["DETAILS_PLUGIN_DAMAGE_RANK"] = {
+			["lasttry"] = {
+			},
+			["annouce"] = true,
+			["dpshistory"] = {
+			},
+			["author"] = "Details! Team",
+			["dps"] = 0,
+			["level"] = 1,
+			["enabled"] = true,
+		},
+		["DETAILS_PLUGIN_VANGUARD"] = {
+			["enabled"] = true,
+			["tank_block_texture"] = "Details Serenity",
+			["tank_block_color"] = {
+				0.24705882, -- [1]
+				0.0039215, -- [2]
+				0, -- [3]
+				0.8, -- [4]
+			},
+			["show_inc_bars"] = false,
+			["author"] = "Details! Team",
+			["first_run"] = false,
+			["tank_block_size"] = 150,
+		},
+		["DETAILS_PLUGIN_ENCOUNTER_DETAILS"] = {
+			["enabled"] = true,
+			["encounter_timers_bw"] = {
+			},
+			["max_emote_segments"] = 3,
+			["author"] = "Details! Team",
+			["window_scale"] = 1,
+			["hide_on_combat"] = false,
+			["show_icon"] = 5,
+			["opened"] = 0,
+			["encounter_timers_dbm"] = {
+			},
+		},
+		["DETAILS_PLUGIN_DPS_TUNING"] = {
+			["enabled"] = true,
+			["author"] = "Details! Team",
+			["SpellBarsShowType"] = 1,
+		},
+		["DETAILS_PLUGIN_RAIDCHECK"] = {
+			["enabled"] = true,
+			["food_tier1"] = true,
+			["mythic_1_4"] = true,
+			["food_tier2"] = true,
+			["author"] = "Details! Team",
+			["use_report_panel"] = true,
+			["pre_pot_healers"] = false,
+			["pre_pot_tanks"] = false,
+			["food_tier3"] = true,
+		},
+		["DETAILS_PLUGIN_STREAM_OVERLAY"] = {
+			["font_color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["is_first_run"] = false,
+			["arrow_color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0.5, -- [4]
+			},
+			["main_frame_size"] = {
+				300, -- [1]
+				500.000030517578, -- [2]
+			},
+			["minimap"] = {
+				["minimapPos"] = 20.9929034117301,
+				["radius"] = 160,
+				["hide"] = true,
+			},
+			["arrow_anchor_x"] = 0,
+			["row_texture"] = "Details Serenity",
+			["scale"] = 1,
+			["row_height"] = 20,
+			["point"] = "CENTER",
+			["enabled"] = false,
+			["arrow_size"] = 10,
+			["author"] = "Details! Team",
+			["row_spacement"] = 21,
+			["main_frame_color"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.2, -- [4]
+			},
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
+			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+			["per_second"] = {
+				["enabled"] = false,
+				["point"] = "CENTER",
+				["scale"] = 1,
+				["font_shadow"] = true,
+				["y"] = 3.05175781250e-005,
+				["x"] = 3.05175781250e-005,
+				["size"] = 32,
+				["update_speed"] = 0.05,
+				["attribute_type"] = 1,
+			},
+			["font_size"] = 10,
+			["x"] = 0,
+			["font_face"] = "Friz Quadrata TT",
+			["y"] = 4.577636718750e-005,
+			["use_spark"] = true,
+			["main_frame_strata"] = "LOW",
+			["main_frame_locked"] = false,
+			["arrow_anchor_y"] = 0,
+		},
+	},
+	["nick_tag_cache"] = {
+		["nextreset"] = 1521345142,
+		["last_version"] = 9,
+	},
+	["benchmark_db"] = {
+		["frame"] = {
+		},
+	},
+	["last_day"] = "02",
+	["combat_counter"] = 26,
+	["combat_id"] = 3,
+	["savedStyles"] = {
+	},
+	["announce_prepots"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+		["reverse"] = false,
+	},
+	["mythic_dungeon_currentsaved"] = {
+		["dungeon_name"] = "",
+		["started"] = false,
+		["segment_id"] = 0,
+		["ej_id"] = 0,
+		["started_at"] = 0,
+		["run_id"] = 0,
+		["level"] = 0,
+		["dungeon_zone_id"] = 0,
+		["previous_boss_killed_at"] = 0,
+	},
+	["announce_deaths"] = {
+		["enabled"] = false,
+		["last_hits"] = 1,
+		["only_first"] = 5,
+		["where"] = 1,
+	},
+	["tabela_overall"] = {
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+			},
+		}, -- [1]
+		{
+			["tipo"] = 3,
+			["_ActorTable"] = {
+			},
+		}, -- [2]
+		{
+			["tipo"] = 7,
+			["_ActorTable"] = {
+			},
+		}, -- [3]
+		{
+			["tipo"] = 9,
+			["_ActorTable"] = {
+			},
+		}, -- [4]
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+			},
+		}, -- [5]
+		["raid_roster"] = {
+		},
+		["last_events_tables"] = {
+		},
+		["alternate_power"] = {
+		},
+		["combat_counter"] = 23,
+		["totals"] = {
+			0, -- [1]
+			0, -- [2]
+			{
+				0, -- [1]
+				[0] = 0,
+				["alternatepower"] = 0,
+				[3] = 0,
+				[6] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["debuff_uptime"] = 0,
+				["cooldowns_defensive"] = 0,
+				["interrupt"] = 0,
+				["dispell"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
+			}, -- [4]
+			["frags_total"] = 0,
+			["voidzone_damage"] = 0,
+		},
+		["totals_grupo"] = {
+			0, -- [1]
+			0, -- [2]
+			{
+				0, -- [1]
+				[0] = 0,
+				["alternatepower"] = 0,
+				[3] = 0,
+				[6] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["debuff_uptime"] = 0,
+				["cooldowns_defensive"] = 0,
+				["interrupt"] = 0,
+				["dispell"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
+			}, -- [4]
+		},
+		["frags_need_refresh"] = false,
+		["__call"] = {
+		},
+		["data_inicio"] = 0,
+		["frags"] = {
+		},
+		["data_fim"] = 0,
+		["CombatSkillCache"] = {
+		},
+		["PhaseData"] = {
+			{
+				1, -- [1]
+				1, -- [2]
+			}, -- [1]
+			["heal_section"] = {
+			},
+			["heal"] = {
+			},
+			["damage_section"] = {
+			},
+			["damage"] = {
+			},
+		},
+		["start_time"] = 0,
+		["TimeData"] = {
+			["Raid Damage Done"] = {
+			},
+		},
+		["player_last_events"] = {
+		},
+	},
+	["force_font_outline"] = "",
+	["SoloTablesSaved"] = {
+		["LastSelected"] = "DETAILS_PLUGIN_DAMAGE_RANK",
+		["Mode"] = 1,
+	},
+	["announce_firsthit"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["announce_cooldowns"] = {
+		["enabled"] = false,
+		["ignored_cooldowns"] = {
+		},
+		["custom"] = "",
+		["channel"] = "RAID",
+	},
+	["rank_window"] = {
+		["last_difficulty"] = 15,
+		["last_raid"] = "",
+	},
+	["announce_damagerecord"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["cached_specs"] = {
+		["Player-1171-0853B8AF"] = 72,
+		["Player-1136-07DA932B"] = 71,
+		["Player-1171-08546D3E"] = 265,
+	},
+}
